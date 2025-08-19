@@ -4,7 +4,10 @@ Repository for the All Star Game Jam
 Current Member:
 
 Michael Peck
-(Orikazi)
-(StarSpooks)
-(Ainsiyl97)
-(Open)
+Orikazi
+StarSpooks
+Ainsiyl97
+Emma P.
+
+Team All Stars Winners finalized.
+Ready to jam.
