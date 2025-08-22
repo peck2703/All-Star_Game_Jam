@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"U:/Github/All-Star_Game_Jam/Project_All_Star/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
