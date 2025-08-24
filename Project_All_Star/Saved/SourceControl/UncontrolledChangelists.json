@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/Unreal Projects/All-Star_Game_Jam/Project_All_Star/Content/BrutalistLevelKit/Maps/ExampleMap.umap",
+				"F:/Unreal Projects/All-Star_Game_Jam/Project_All_Star/Content/Levels/Testworld.umap",
+				"F:/Unreal Projects/All-Star_Game_Jam/Project_All_Star/Content/Levels/_GENERATED/saca/CubeGridToolOutput_0FBCD432.uasset",
+				"F:/Unreal Projects/All-Star_Game_Jam/Project_All_Star/Content/Levels/_GENERATED/saca/CubeGridToolOutput_FB1DEDEA.uasset",
+				"F:/Unreal Projects/All-Star_Game_Jam/Project_All_Star/Content/BrutalistLevelKit/Models/Structure/Buildings/Stairs/SM_Stairs_Steps1_Middle.uasset",
+				"F:/Unreal Projects/All-Star_Game_Jam/Project_All_Star/Content/BrutalistLevelKit/Models/Structure/Buildings/Stairs/SM_Stairs_Steps1_Sup_Up.uasset",
+				"F:/Unreal Projects/All-Star_Game_Jam/Project_All_Star/Content/BrutalistLevelKit/Blueprints/Environment/Stairs/Parent/BP_P_Stairs.uasset",
 				"U:/Github/All-Star_Game_Jam/Project_All_Star/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
